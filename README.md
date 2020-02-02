@@ -7,3 +7,6 @@ this model using the training dataset and calculate a confusion matrix.
 
 # Script
 The python script NaiveBayes.py is the code that implements multiclass and binary classification. Two datasets where it is tried and tested has been incorporated
+
+# Question
+The Naive Bayes algorithm is implemented to calculate the probabilty for multiple classes. This can be implemented in the followin way python NaiveBayes.py TRAIN TEST MODEL-FILE RESULT-FILE
